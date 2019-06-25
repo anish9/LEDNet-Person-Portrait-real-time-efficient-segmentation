@@ -17,11 +17,11 @@
 https://github.com/anish9/LEDnet-keras
 
 ## To Run infernce 
-> Run inference.ipynb to test.
-'''
+##### Run inference.ipynb to test.
+```
 predict("/home/anish/test.jpg")
 
-'''
+```
 
 ## Model Info
 > Model file is just 21Mb which makes it compact for real world efficiency.
