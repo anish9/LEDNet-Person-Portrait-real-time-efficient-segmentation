@@ -15,3 +15,10 @@
 
 ## To train follow the below link
 https://github.com/anish9/LEDnet-keras
+
+## To Run infernce 
+> Run inference.ipynb to test.
+
+## Model Info
+> Model file is just 21Mb which makes it compact for real world efficiency.
+> Trained for 50 epochs with batch size of 3 because of constrained GPU(Learning Rate decay Used) which is different from  original implementation.
