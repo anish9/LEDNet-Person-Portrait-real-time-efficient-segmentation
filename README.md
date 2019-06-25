@@ -24,5 +24,6 @@ predict("/home/anish/test.jpg")
 ```
 
 ## Model Info
-> Model file is just 21Mb which makes it compact for real world efficiency.
+> Model file is just 21Mb which makes it compact for real world efficiency.(pre_trained weights is available on weights folder) 
+
 > Trained for 50 epochs with batch size of 3 because of constrained GPU(Learning Rate decay Used) which is different from  original implementation.
