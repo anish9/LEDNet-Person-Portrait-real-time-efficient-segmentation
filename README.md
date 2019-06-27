@@ -11,7 +11,7 @@
 
 # Watch it Real time below
 [![IMAGE ALT TEXT HERE](https://github.com/anish9/LEDNet-Person-Portrait-real-time-efficient-segmentation/blob/master/Results/sshot.png)](https://www.youtube.com/watch?v=sVEN_rJeQkM)
-[![IMAGE ALT TEXT HERE](https://github.com/anish9/LEDNet-Person-Portrait-real-time-efficient-segmentation/blob/master/Results/sshot3.png)](https://www.youtube.com/watch?v=qNGx_-knZGA)
+[![IMAGE ALT TEXT HERE](https://github.com/anish9/LEDNet-Person-Portrait-real-time-efficient-segmentation/blob/master/Results/tys.png)](https://youtu.be/lzETTz1RV7c)
 
 ## To train follow the below link
 https://github.com/anish9/LEDnet-keras
